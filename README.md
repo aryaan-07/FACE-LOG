@@ -354,7 +354,3 @@ Bachelor of Engineering
 Computer Engineering
 
 ---
-
-# License
-
-This project is licensed under the MIT License.
